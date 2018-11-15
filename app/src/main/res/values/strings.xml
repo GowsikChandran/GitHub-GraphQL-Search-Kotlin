@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GraphQl Kotlin</string>
+
+    <string name="search_activity_label">Git Hub GraphQL Search</string>
+
+
+    <string name="search_edt_hint">Enter Keyword</string>
+    <string name="search_item_image_view_desc">serch item Image View</string>
+    <string name="error_text">Something went wrong!</string>
+
+    <string name="network_error_text">Please check your network settings.</string>
+</resources>
