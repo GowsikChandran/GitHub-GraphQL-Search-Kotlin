@@ -25,7 +25,7 @@ class ApolloModule {
     private val baseUrl = "https://api.github.com/graphql"
 
     //access token
-    private val accessToken = "c7f687c3269f9a9196c707d24f4ac223cbf60868"
+    private val accessToken = "add your git hub access token here"
 
 
     @Provides
